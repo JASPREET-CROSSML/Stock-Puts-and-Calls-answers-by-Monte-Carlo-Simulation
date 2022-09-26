@@ -8,4 +8,4 @@ Things we'll talk about: Simulation, Monte Carlo Simulation, Returns in financia
 
 Utilize the historic AAL stock price from 2013–02–08 to 2018–02–07, which may be found online at [link](https://finance.yahoo.com/quote/YHOO/history?ltr=1).
 
-For a brief description, read the medium blog 
+Read the medium blog for a more detailed explanation.
