@@ -8,7 +8,7 @@ Python implementation of the mathematical concepts used in the development of th
 
 **Dataset**
 
-Utilize the historic AAL stock price from 2013–02–08 to 2018–02–07, which may be found online at [link](https://finance.yahoo.com/quote/YHOO/history?ltr=1).
+Utilize the historic AAL stock price from 2013–02–08 to 2018–02–07, which may be found online at **[link](https://finance.yahoo.com/quote/YHOO/history?ltr=1)**.
 
 **Medium Blog**
 
