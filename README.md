@@ -1,5 +1,5 @@
 # Stock-Puts-and-Calls-answers-by-Monte-Carlo-Simulation
-Using Geometric Brownian Motion.
+**Using Geometric Brownian Motion**
 
 
 Python implementation of the mathematical concepts used in the development of the machine learning algorithm used to answer the calls and puts related queries.
